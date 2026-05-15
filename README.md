@@ -287,9 +287,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 👨‍💻 Author
 
-**Ashutosh Yadav**
-- GitHub: [@ashu13579](https://github.com/ashu13579)
-- Email: 23053934@kiit.ac.in
+- GitHub:23052599-netizen
+- Email: 23052599@kiit.ac.in
 
 ## 🙏 Acknowledgments
 
